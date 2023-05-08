@@ -1,0 +1,41 @@
+p{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100pt;
+
+}
+
+body{
+    background-image: url(one-punch-man.gif);
+    background-size: cover;
+}
+
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.footer{
+  color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
